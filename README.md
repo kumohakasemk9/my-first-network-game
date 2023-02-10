@@ -16,6 +16,6 @@ Licence
 ====
 (C) 2021 kumohakase  
 You can modify and redistribute.  
-You can not sell this, relabel or remove this copyright notice.  
+You can not sell this, relabel or remove this Licence section.
 
 please support me on ko-fi https://ko-fi.com/kumohakase
