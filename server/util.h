@@ -1,0 +1,17 @@
+int readuint8(int);
+int readdata(int,void*,int);
+void putuint16(void*,int,uint16_t);
+void PutMessage(int,const char*,...);
+int RectanglarHitDetect(int,int,int,int,int,int,int,int);
+int authorize(char*);
+int isCharaActive(int);
+char* getusername(int);
+int AddCharacter(double,double,int,int,int);
+void RemoveCharacter(int);
+void MarkCharacterAltered(int);
+int CalcAngleToTarget(double,double,double,double);
+double FixCoordinateToTarget(double,double,double*,double*,double);
+double limit(double,double,double);
+int WillOverflow(double,double,double);
+void netlog(int,const char*,...);
+void PutBinaryData(int,char*,int);

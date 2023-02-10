@@ -1,0 +1,9 @@
+void *server_worker(void*);
+void NewClientHandler(int);
+void UserDataHandler(int,char*);
+void QHandler(int,int,int);
+void WHandler(int,int,int);
+void EHandler(int,int,int);
+void RHandler(int,int,int);
+void MapClickHandler(int,int,int);
+int WritingInfoHandler(int);

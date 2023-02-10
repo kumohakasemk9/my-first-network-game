@@ -1,0 +1,4 @@
+word=strongest? in kumo series
+font=ubuntu mono
+fontsize=18
+antialias=true
